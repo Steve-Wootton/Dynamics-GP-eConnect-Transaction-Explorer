@@ -24,4 +24,4 @@ The eConnect Transaction Explorer is an application that allows the user to easi
 * Save transactions to a file.
 * Load transactions from a file, whether saved by the eConnect Transaction Editor or by other applications.
 
-Please see the Installation section for instructions on how to install the eConnect Transaction Explorer.
+Please see the Installation section in the Wiki for instructions on how to install the eConnect Transaction Explorer.
