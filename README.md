@@ -1,6 +1,6 @@
 The eConnect Transaction Explorer is a graphical front end application for Microsoft Dynamics GP eConnect.
-* Refer to the Wiki pages for information regarding installation and use.
-* Click the Releases link to get a list of releases.
+* Refer to the Wiki pages (link above) for information regarding installation and use.
+* Click the Releases link (link to the right) to get a list of releases.
 
 ## Overview
 Microsoft Dynamics Great Plains, or simply *GP*, has an API that is referred to as *eConnect*. eConnect is based on XML-formatted messages and is primarily used to move data into GP. It provides similar functionality to what is available through the standard GP user interface, with some exceptions.
