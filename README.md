@@ -7,7 +7,7 @@ Microsoft Dynamics Great Plains, or simply *GP*, has an API that is referred to 
 
 The eConnect Transaction Explorer is an application that allows the user to easily explore all of the available eConnect transactions, select transactions to execute and populate transaction data, and to test/execute transactions against GP, all in a convenient graphical interface. For example, here is a screenshot of a sample GL transaction with two distributions that has been tested successfully against a running instance of GP:
 
-![Sample GL Transaction](https://github.com/srw42/eConnect-Transaction-Explorer/blob/main/Sample_GL_Transaction.png?raw=true "Sample GL Transaction")
+![Sample GL Transaction](https://github.com/srw42/eConnect-Transaction-Explorer/blob/main/screenshots/Sample_GL_Transaction.png?raw=true "Sample GL Transaction")
 
 ## Features
 * Explore eConnect transactions.
